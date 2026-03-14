@@ -1,6 +1,9 @@
 #include <string>
 #include <vector>
 
+#define USER User
+#define COURSE Course
+#define TEACHINGTASK TeachingTask
 // 基础用户实体
 class User {
 public:
