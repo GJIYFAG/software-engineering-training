@@ -12,7 +12,9 @@ sudo pacman -S libpqxx
 这个会自动安装这个C语言的libpq库
 所以就算这个c++的库出现问题，也能使用c语言版本解决问题
 
-3. 数据库使用的data
+3. 数据库使用的  data
+
+
 CREATE TABLE IF NOT EXISTS users (
     user_id SERIAL PRIMARY KEY,
     username VARCHAR(50) UNIQUE NOT NULL,
