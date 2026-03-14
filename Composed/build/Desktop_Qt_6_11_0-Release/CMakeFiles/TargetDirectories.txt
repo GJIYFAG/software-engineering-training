@@ -1,7 +1,0 @@
-/home/ousuc/文档/GitHub/software-engineering-training2/Composed/build/Desktop_Qt_6_11_0-Release/CMakeFiles/Test.dir
-/home/ousuc/文档/GitHub/software-engineering-training2/Composed/build/Desktop_Qt_6_11_0-Release/CMakeFiles/edit_cache.dir
-/home/ousuc/文档/GitHub/software-engineering-training2/Composed/build/Desktop_Qt_6_11_0-Release/CMakeFiles/rebuild_cache.dir
-/home/ousuc/文档/GitHub/software-engineering-training2/Composed/build/Desktop_Qt_6_11_0-Release/CMakeFiles/list_install_components.dir
-/home/ousuc/文档/GitHub/software-engineering-training2/Composed/build/Desktop_Qt_6_11_0-Release/CMakeFiles/install.dir
-/home/ousuc/文档/GitHub/software-engineering-training2/Composed/build/Desktop_Qt_6_11_0-Release/CMakeFiles/install/local.dir
-/home/ousuc/文档/GitHub/software-engineering-training2/Composed/build/Desktop_Qt_6_11_0-Release/CMakeFiles/install/strip.dir
