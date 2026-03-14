@@ -1,0 +1,3 @@
+/home/ousuc/Island_C/Project/P_Qt/P_noob/untitled1/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/untitled.dir
+/home/ousuc/Island_C/Project/P_Qt/P_noob/untitled1/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/edit_cache.dir
+/home/ousuc/Island_C/Project/P_Qt/P_noob/untitled1/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/rebuild_cache.dir
