@@ -18,3 +18,14 @@ public:
     int credits;
     Course(int id, std::string n, int c) : courseId(id), name(n), credits(c) {}
 };
+
+// 教学任务实体（关联教师与课程）
+class TeachingTask {
+public:
+    int taskId;
+    int courseId;
+    int teacherId;
+    std::string semester;
+    TeachingTask(int id, int cid, int tid, std::string sem)
+        : taskId(id), courseId(cid), teacherId(tid), semester(sem) {}
+};
