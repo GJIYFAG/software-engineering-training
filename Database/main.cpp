@@ -1,14 +1,12 @@
-#define PQXX_NO_CXX20_MEMORY_RESOURCE 1
-#include <iostream>
+#pragma once
+#define DATABASE_H
 #include <pqxx/pqxx>
+#include <memory>
 
-int main() {
-    const std::string conn_info =
-        "host=localhost "
-        "port=5432 "
-        "dbname=selection "
-        "user=test_user ";
-    pqxx::connection conn(conn_info);
-
-    return 0;
-}
+class DBConfig {
+public:
+    // 建立数据库连接（请根据实际情况修改连接字符串）
+    static std::unique_ptr<pqxx::connection> connect() {
+        return std::make_unique<pqxx::connection>("dbname=selection user=postgres password=A");
+    }
+};
